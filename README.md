@@ -30,7 +30,7 @@ Computer Science student from Bangladesh with an interest in Flutter and mobile 
 ## GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sharifahmedd&theme=github-dark" />
+  <img src="https://streak-stats.demolab.com?user=sharifahmedd&theme=github-dark-blue" />
 </p>
 
 ## Connect
